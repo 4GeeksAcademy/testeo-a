@@ -1,0 +1,4 @@
+saludo = "hola"
+
+print(saludo + "men")
+
